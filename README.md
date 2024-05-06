@@ -1,2 +1,1 @@
-# hello
-"Hello World" for golang
+# "Hello World" for golang
